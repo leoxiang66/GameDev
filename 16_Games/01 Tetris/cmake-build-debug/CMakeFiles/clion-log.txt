@@ -1,0 +1,4 @@
+/home/tao_xiang/Documents/clion-2019.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/tao_xiang/git/GameDev/16_Games/01 Tetris"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tao_xiang/git/GameDev/16_Games/01 Tetris/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GameDev.dir/main.cpp.o  -o GameDev 

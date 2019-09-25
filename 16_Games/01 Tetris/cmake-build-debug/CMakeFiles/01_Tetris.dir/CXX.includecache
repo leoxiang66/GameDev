@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/main.cpp
+SFML/Graphics.hpp
+-
+time.h
+-
+
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/test.cpp
+SFML/Graphics.hpp
+-
+chrono
+-
+thread
+-
+iostream
+-
+tetris_t.h
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/tetris_t.h
+
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/tetris_t.h
+stdint.h
+-
+

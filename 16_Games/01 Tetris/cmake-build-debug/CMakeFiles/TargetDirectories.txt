@@ -1,0 +1,3 @@
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/cmake-build-debug/CMakeFiles/01_Tetris.dir
+/home/tao_xiang/git/GameDev/16_Games/01 Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
